@@ -6,13 +6,11 @@
 
 - Caches Folder in ./caches , eg. encounter_cache_1.txt or pokemon_cache_1.txt
 
-- Testing was done with PhpUnit 
+- Testing was done with PhpUnit v8.3
 
  **Packages**
 
 - This can be found in the composer.json in the root directory of the project
-
--PhpUnit 9.3 was used for testing
 
 
  **How to run**
