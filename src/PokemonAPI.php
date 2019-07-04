@@ -24,7 +24,7 @@ class PokemonAPI {
         return $output;
     }
 
-    /* utility function */
+    //Format utitlity function
     public function formatResponse($content) {
         $id = $content['id'];
         $name = $content['name'];

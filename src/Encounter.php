@@ -9,7 +9,7 @@ require_once('./src/Config.php');
 class Encounter {
 
    
-    /* utility function */
+    //Get encounters function 
     public static function getEncounters($encounters_link,$id) {
 
         $encounter_cache_file = ENCOUNTER_CACHE_FILE;
