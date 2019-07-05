@@ -50,6 +50,7 @@ $output = $api->formatResponse($content)->getFullOutput();
 
 Example of Output :
 
+Pokemon Id: 132
 Pokemon Name: ditto
 Pokemon Types: normal
 Pokemon Encounters: kanto-route-13-area  [red:walk]   [blue:walk]   [firered:walk]   [leafgreen:walk] |kanto-route-14-area  [red:walk]   [blue:walk]   [firered:walk]   [leafgreen:walk] |kanto-route-15-area  [red:walk]   [blue:walk]   [firered:walk]   [leafgreen:walk] |kanto-route-23-area  [red:walk]   [blue:walk] 
